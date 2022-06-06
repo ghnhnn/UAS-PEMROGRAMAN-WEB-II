@@ -1,0 +1,113 @@
+
+
+body{
+	background-color: #000020;
+}
+
+
+h1{
+	font-family: "Trebuchet MS";
+	width: 410px;
+	color: #1dbcfd;
+	letter-spacing: 0.1rem;
+	padding: 1rem;
+	cursor: default;
+	border-radius: 10px 10px 0px 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+
+}
+
+.input{
+	font-family: "Trebuchet MS";
+	width: 400px;
+	height: 35px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	border : 1px solid silver;
+	padding: 5px;
+	border-color:black;
+	 
+}
+.submit{
+	font-family: "Trebuchet MS";
+	margin-top: 20px; 
+	padding: 5px;
+	width: 412px;
+	height: 40px;
+	background-color: #1b9bff;
+	color: #fff;
+	border-radius: 20px;
+	border: 0;
+	font-size: 18px;
+
+}
+
+.submit::hover{
+	background-color: pink;
+	border-color: black;
+}
+
+.rdo{
+	text-align: left;
+	margin: 0;
+}
+
+.wrap {
+	width: 410px;
+	overflow: hidden;
+	margin: auto;
+	margin-top: 70px;
+	padding: 50px 50px 20px 50px;
+	background: #fff;
+	border: 1px solid silver;
+	border-radius: 10px;
+}
+
+.wrap h2{
+	text-align: center;
+	margin-bottom: 60px;
+	font-size: 30px;
+}
+
+.wrap .btn-login{
+	margin-top: 20px; 
+	padding: 5px;
+	width: 412px;
+	height: 40px;
+	background-color: #3498db;
+	color: #fff;
+	border-radius: 20px;
+	border: 0;
+	font-size: 18px;
+}
+
+.wrap input{
+	width: 400px;
+	height: 35px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	border : 1px solid silver;
+	padding: 5px;
+}
+.dropdown{
+	font-family: "Trebuchet MS";
+	width: 30px;
+	height: 30px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	border : 1px solid silver;
+	padding: 5px;
+	
+}
+
+.input1{
+	font-family: "Trebuchet MS";
+	width: 200px;
+	height: 35px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	border : 1px solid silver;
+	padding: 5px;
+	 
+}

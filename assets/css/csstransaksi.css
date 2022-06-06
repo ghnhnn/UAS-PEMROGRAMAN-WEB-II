@@ -1,0 +1,130 @@
+*{
+	font-family: "Trebuchet MS";
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+
+h1{
+	text-transform: uppercase;
+	color: #000;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+table{
+	border: 1px solid #ddeeee;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 80%;
+	margin: 10px auto 10px auto;
+}
+
+table thead th{
+	background-color: #ddefef;
+	border: 1px solid #ddeeee;
+	color: #336b6b;
+	padding: 10px;
+	text-align: center;
+}
+
+table tbody td{
+	border: 1px solid #ddeeee;
+	color: #333;
+	padding: 10px;
+}
+
+a{
+	color: #fff;
+	padding: 10px;
+	font-size: 12px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.tambah{
+	background-color: #00FF00;
+}
+
+.edit{
+	background-color: #FFD700;
+}
+
+.hapus{
+	background-color: #DC143C;
+}
+
+.nav{
+	background-color: #0082e6;
+	height: 80px;
+	width: 100%;
+}
+
+.logo{
+	color: #fff;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;
+}
+
+.ul{
+	float: right;
+	margin-right: 20px;
+}
+
+.li{
+	display: inline-block;
+	line-height: 80px;
+	margin: 0 5px;
+}
+
+.a{
+	color: #fff;
+	font-size: 17px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+}
+
+.active, a:hover{
+	background: #1b9bff;
+	transition: .5s;
+}
+
+.table1{
+	border: 1px solid #ddeeee;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+	margin: 10px auto 10px auto;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #000020;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	display: block;
+	color: #fff;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
+
+}
+
+header{
+	height: 100%;
+	background-color: #F0F0FF;
+	width: 100%;
+}

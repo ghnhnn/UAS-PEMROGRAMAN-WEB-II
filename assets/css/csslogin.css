@@ -1,0 +1,45 @@
+body{
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(<?php echo base_url("assets/bg1.png");?>);
+	position: relative;
+	margin: auto; 
+}
+
+.wrap {
+	width: 410px;
+	overflow: hidden;
+	margin: auto;
+	margin-top: 180px;
+	padding: 50px;
+	background: #fff;
+	border: 1px solid silver;
+	border-radius: 10px;
+}
+
+.wrap h2{
+	text-align: center;
+	margin-bottom: 60px;
+	font-size: 30px;
+}
+
+.wrap .btn-login{
+	margin-top: 20px; 
+	padding: 5px;
+	width: 412px;
+	height: 40px;
+	background-color: #3498db;
+	color: #fff;
+	border-radius: 20px;
+	border: 0;
+	font-size: 18px;
+}
+
+.wrap input{
+	width: 400px;
+	height: 35px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	border : 1px solid silver;
+	padding: 5px;
+}
